@@ -6,18 +6,24 @@ body {
 
 #footer {
 
-		background: #ebebeb;
+		background: #666666;
 		padding: 20px;
 		width: 100%;
 		clear: both;
+		border-top-style: solid;
+		border-top-width: 5px;
+		border-top-color: #4aaaa5;
 
 }
 
 #top {
 		padding: 35px;
   		margin-bottom: 10px;
-  		background: #ebebeb;
+  		background: #ffffff;
   		width: 100%;
+  		border-bottom-style: solid;
+  		border-bottom-width: 2px;
+  		border-bottom-color: #cccccc;
 }
 
 #nav {
@@ -27,30 +33,51 @@ body {
 #main-section {
 		float:left;
 		width: 450px;
-		background: #ebebeb;
+		background: #ffffff;
 		padding: 30px;
 		margin-bottom: 20px;
 		margin-right: ;
-		height: 295px;
+		height: 495px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #cccccc;
 
 }
 
 #connect {
 
-		background: #ebebeb;
+		background: #ffffff;
 		float: right;
 		padding: 30px;
 		margin-bottom: 20px;
 		width: 170px;
 		height: 140px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #cccccc;
 }
 
 #line {
 
 	width: 100%;
-	background: red;
-	padding: 2px;
+	background: #cccccc;
+	padding: 1px;
+	margin-bottom: 5px;
 }
+
+#inside-section {
+	
+	float: left;
+
+}
+
+#myp {
+	
+	margin-bottom: 5px;
+	margin-right: 10px;
+	margin-top: 15px;
+}
+
 
 
 
