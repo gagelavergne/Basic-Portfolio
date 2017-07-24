@@ -1,0 +1,57 @@
+body {
+		width: 960px;
+		margin: 0 auto 0 auto;
+		padding: 20px;
+}
+
+#footer {
+
+		background: #ebebeb;
+		padding: 20px;
+		width: 100%;
+		clear: both;
+
+}
+
+#top {
+		padding: 35px;
+  		margin-bottom: 10px;
+  		background: #ebebeb;
+  		width: 100%;
+}
+
+#nav {
+	float: right;
+}
+
+#main-section {
+		float:left;
+		width: 450px;
+		background: #ebebeb;
+		padding: 30px;
+		margin-bottom: 20px;
+		margin-right: ;
+		height: 295px;
+
+}
+
+#connect {
+
+		background: #ebebeb;
+		float: right;
+		padding: 30px;
+		margin-bottom: 20px;
+		width: 170px;
+		height: 140px;
+}
+
+#line {
+
+	width: 100%;
+	background: red;
+	padding: 2px;
+}
+
+
+
+
