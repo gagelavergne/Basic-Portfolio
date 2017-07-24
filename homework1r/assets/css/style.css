@@ -2,21 +2,9 @@ body {
 		width: 960px;
 		margin: 0 auto 0 auto;
 		padding: 20px;
-
 }
 
-#footer {
 
-		background: #666666;
-		padding: 20px;
-		width: 100%;
-		clear: both;
-		border-top-style: solid;
-		border-top-width: 5px;
-		border-top-color: #4aaaa5;
-		color: white;
-
-}
 
 #top {
 		padding: 20px;
@@ -25,12 +13,9 @@ body {
   		width: 100%;
   		border-bottom-style: solid;
   		border-bottom-width: 2px;
-  		border-bottom-color: #cccccc;
-  	
-    
-    	
-
+  		border-bottom-color: #cccccc   	
 }
+
 
 #name {
 
@@ -44,10 +29,12 @@ body {
 	font-size: 30px;
 }
 
+
 #nav {
 	float: right;
 
 }
+
 
 #main-section {
 		float:left;
@@ -60,9 +47,8 @@ body {
 		border-width: 1px;
 		border-color: #cccccc;
 		background: #ffffff;
-		
-
 }
+
 
 #connect {
 
@@ -77,6 +63,7 @@ body {
 		border-color: #cccccc;
 }
 
+
 #line {
 
 	width: 100%;
@@ -85,11 +72,12 @@ body {
 	margin-bottom: 5px;
 }
 
+
 #inside-section {
 	
 	float: left;
-
 }
+
 
 #myp {
 	
@@ -97,6 +85,8 @@ body {
 	margin-right: 10px;
 	margin-top: 15px;
 }
+
+
 #hed {
 
 	font-family: 'Georgia', Times, Times New Roman, serif;
@@ -141,3 +131,28 @@ input[type=submit]:hover {
     background-color: #ffffff;
     padding: 20px;
 }
+
+
+#footer {
+
+		background: #666666;
+		padding: 20px;
+		width: 100%;
+		clear: both;
+		border-top-style: solid;
+		border-top-width: 5px;
+		border-top-color: #4aaaa5;
+		color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
