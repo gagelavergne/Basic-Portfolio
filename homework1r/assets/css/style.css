@@ -2,6 +2,7 @@ body {
 		width: 960px;
 		margin: 0 auto 0 auto;
 		padding: 20px;
+
 }
 
 #footer {
@@ -13,11 +14,12 @@ body {
 		border-top-style: solid;
 		border-top-width: 5px;
 		border-top-color: #4aaaa5;
+		color: white;
 
 }
 
 #top {
-		padding: 0px;
+		padding: 20px;
   		margin-bottom: 10px;
   		background: #ffffff;
   		width: 100%;
@@ -50,7 +52,6 @@ body {
 #main-section {
 		float:left;
 		width: 450px;
-		background: #ffffff;
 		padding: 30px;
 		margin-bottom: 20px;
 		margin-right: ;
@@ -58,6 +59,8 @@ body {
 		border-style: solid;
 		border-width: 1px;
 		border-color: #cccccc;
+		background: #ffffff;
+		
 
 }
 
@@ -102,8 +105,8 @@ body {
 }
 
 
-
 input[type=text], select, textarea {
+    
     width: 100%; 
     padding: 12px;  
     border: 1px solid #ccc; 
@@ -114,8 +117,9 @@ input[type=text], select, textarea {
     resize: vertical;
 }
 
-/* Style the submit button with a specific background color etc */
+
 input[type=submit] {
+    
     background-color: #4aaaa5;
     color: white;
     padding: 12px 20px;
@@ -124,13 +128,15 @@ input[type=submit] {
     cursor: pointer;
 }
 
-/* When moving the mouse over the submit button, add a darker green color */
+
 input[type=submit]:hover {
+    
     background-color: #ffffff;
 }
 
-/* Add a background color and some padding around the form */
+
 .container {
+    
     border-radius: 5px;
     background-color: #ffffff;
     padding: 20px;
