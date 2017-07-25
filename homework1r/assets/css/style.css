@@ -32,7 +32,6 @@ body {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 30px;
 	float: left;
-	
 	border-bottom-style: solid;
 	border-bottom-width: 10px;
 	border-bottom-color: #4aaaa5;
@@ -47,6 +46,7 @@ body {
 	float: right;
 	margin-right: 100px;
 	margin-top:25px;
+	color: #cccccc;
 	
 
 }
@@ -166,11 +166,15 @@ input[type=submit]:hover {
 		border-top-color: #4aaaa5;
 		color: white;
 		border-bottom-style: solid;
-		border-bottom-width: 45px;
+		border-bottom-width: 20px;
 		border-bottom-color: #666666;
 		text-align: center;
 
+}
 
+#copyright {
+
+	margin-top: 20px;
 }
 
 
