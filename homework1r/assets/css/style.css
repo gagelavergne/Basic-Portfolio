@@ -275,6 +275,15 @@ input[type=submit]:hover {
 }
 
 
+a, a:hover { 
+		  text-decoration: underline;
+
+}
+
+a, a:visited {
+    color: #777777;
+    text-decoration: none;
+}
 
 
 
